@@ -4,4 +4,8 @@ public class Bones {
     public Bones(String cor) {
         this.cor = cor;
     }
+
+    public String getCor() {
+        return cor;
+    }
 }
